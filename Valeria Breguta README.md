@@ -6,7 +6,6 @@ Hi, I’m Valerie, a passionate and dedicated software developer with a strong d
 - 💻 Proficient in programming languages and technologies.
 - 🌱 Committed to furthering my knowledge and skills as I pursue my Bachelor's degree.
 - 💞️ I’m looking to collaborate on different projects that I can contribute to and learn from also 
-- 📫 How to reach me ...
 
 ## Skills
 - Programming: Python, JavaScript, HTML, XML
